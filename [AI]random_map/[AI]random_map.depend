@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1538946826 source:d:\c++\[ai]random_map\main.cpp
+	<bits/stdc++.h>
+
+1544062438 source:d:\c++\[ai]random_map\mazegen.cpp
+	<bits/stdc++.h>
+
